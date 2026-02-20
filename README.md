@@ -7,11 +7,11 @@ This isn't really within the scope of my current aims, but I can also view multi
 
 A Prelimary investigation reveals that the spacecraft are categoried first by role, and then the parts are categorised by what they are, for example;
 
-**-Cockpit
+-Cockpit
 -Cockpit Neck
 -Landing Gear
 -Wings
--Engines**
+-Engines
 
 Further from this they are then numerated by the alphabet, so A, B, C and so on.
 
